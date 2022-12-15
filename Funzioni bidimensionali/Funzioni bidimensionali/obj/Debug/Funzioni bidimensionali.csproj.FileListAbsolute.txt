@@ -1,0 +1,32 @@
+C:\Users\emili\Desktop\Funzioni bidimensionali\Funzioni bidimensionali\bin\Debug\Funzioni bidimensionali.exe.config
+C:\Users\emili\Desktop\Funzioni bidimensionali\Funzioni bidimensionali\bin\Debug\Funzioni bidimensionali.exe
+C:\Users\emili\Desktop\Funzioni bidimensionali\Funzioni bidimensionali\bin\Debug\Funzioni bidimensionali.pdb
+C:\Users\emili\Desktop\Funzioni bidimensionali\Funzioni bidimensionali\obj\Debug\Funzioni bidimensionali.csprojAssemblyReference.cache
+C:\Users\emili\Desktop\Funzioni bidimensionali\Funzioni bidimensionali\obj\Debug\Funzioni_bidimensionali.Form1.resources
+C:\Users\emili\Desktop\Funzioni bidimensionali\Funzioni bidimensionali\obj\Debug\Funzioni_bidimensionali.Properties.Resources.resources
+C:\Users\emili\Desktop\Funzioni bidimensionali\Funzioni bidimensionali\obj\Debug\Funzioni bidimensionali.csproj.GenerateResource.cache
+C:\Users\emili\Desktop\Funzioni bidimensionali\Funzioni bidimensionali\obj\Debug\Funzioni bidimensionali.csproj.CoreCompileInputs.cache
+C:\Users\emili\Desktop\Funzioni bidimensionali\Funzioni bidimensionali\obj\Debug\Funzioni bidimensionali.exe
+C:\Users\emili\Desktop\Funzioni bidimensionali\Funzioni bidimensionali\obj\Debug\Funzioni bidimensionali.pdb
+C:\Users\emili\Desktop\python WORKSPACE\Funzioni bidimensionali\Funzioni bidimensionali\bin\Debug\Funzioni bidimensionali.exe.config
+C:\Users\emili\Desktop\python WORKSPACE\Funzioni bidimensionali\Funzioni bidimensionali\bin\Debug\Funzioni bidimensionali.exe
+C:\Users\emili\Desktop\python WORKSPACE\Funzioni bidimensionali\Funzioni bidimensionali\bin\Debug\Funzioni bidimensionali.pdb
+C:\Users\emili\Desktop\python WORKSPACE\Funzioni bidimensionali\Funzioni bidimensionali\obj\Debug\Funzioni bidimensionali.csproj.AssemblyReference.cache
+C:\Users\emili\Desktop\python WORKSPACE\Funzioni bidimensionali\Funzioni bidimensionali\obj\Debug\Funzioni bidimensionali.csproj.SuggestedBindingRedirects.cache
+C:\Users\emili\Desktop\python WORKSPACE\Funzioni bidimensionali\Funzioni bidimensionali\obj\Debug\Funzioni_bidimensionali.Form1.resources
+C:\Users\emili\Desktop\python WORKSPACE\Funzioni bidimensionali\Funzioni bidimensionali\obj\Debug\Funzioni_bidimensionali.Properties.Resources.resources
+C:\Users\emili\Desktop\python WORKSPACE\Funzioni bidimensionali\Funzioni bidimensionali\obj\Debug\Funzioni bidimensionali.csproj.GenerateResource.cache
+C:\Users\emili\Desktop\python WORKSPACE\Funzioni bidimensionali\Funzioni bidimensionali\obj\Debug\Funzioni bidimensionali.csproj.CoreCompileInputs.cache
+C:\Users\emili\Desktop\python WORKSPACE\Funzioni bidimensionali\Funzioni bidimensionali\obj\Debug\Funzioni bidimensionali.exe
+C:\Users\emili\Desktop\python WORKSPACE\Funzioni bidimensionali\Funzioni bidimensionali\obj\Debug\Funzioni bidimensionali.pdb
+C:\Users\emili\Documents\Coding\Python\Funzioni bidimensionali\Funzioni bidimensionali\bin\Debug\Funzioni bidimensionali.exe.config
+C:\Users\emili\Documents\Coding\Python\Funzioni bidimensionali\Funzioni bidimensionali\bin\Debug\Funzioni bidimensionali.exe
+C:\Users\emili\Documents\Coding\Python\Funzioni bidimensionali\Funzioni bidimensionali\bin\Debug\Funzioni bidimensionali.pdb
+C:\Users\emili\Documents\Coding\Python\Funzioni bidimensionali\Funzioni bidimensionali\obj\Debug\Funzioni bidimensionali.csproj.AssemblyReference.cache
+C:\Users\emili\Documents\Coding\Python\Funzioni bidimensionali\Funzioni bidimensionali\obj\Debug\Funzioni bidimensionali.csproj.SuggestedBindingRedirects.cache
+C:\Users\emili\Documents\Coding\Python\Funzioni bidimensionali\Funzioni bidimensionali\obj\Debug\Funzioni_bidimensionali.Form1.resources
+C:\Users\emili\Documents\Coding\Python\Funzioni bidimensionali\Funzioni bidimensionali\obj\Debug\Funzioni_bidimensionali.Properties.Resources.resources
+C:\Users\emili\Documents\Coding\Python\Funzioni bidimensionali\Funzioni bidimensionali\obj\Debug\Funzioni bidimensionali.csproj.GenerateResource.cache
+C:\Users\emili\Documents\Coding\Python\Funzioni bidimensionali\Funzioni bidimensionali\obj\Debug\Funzioni bidimensionali.csproj.CoreCompileInputs.cache
+C:\Users\emili\Documents\Coding\Python\Funzioni bidimensionali\Funzioni bidimensionali\obj\Debug\Funzioni bidimensionali.exe
+C:\Users\emili\Documents\Coding\Python\Funzioni bidimensionali\Funzioni bidimensionali\obj\Debug\Funzioni bidimensionali.pdb

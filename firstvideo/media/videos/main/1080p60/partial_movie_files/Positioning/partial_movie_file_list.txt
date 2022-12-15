@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/emili/Desktop/firstvideo/media/videos/main/1080p60/partial_movie_files/Positioning/1413466013_2031236190_3704862055.mp4'
+file 'file:C:/Users/emili/Desktop/firstvideo/media/videos/main/1080p60/partial_movie_files/Positioning/1672018281_376371548_73710116.mp4'
+file 'file:C:/Users/emili/Desktop/firstvideo/media/videos/main/1080p60/partial_movie_files/Positioning/1672018281_3972068038_73710116.mp4'
+file 'file:C:/Users/emili/Desktop/firstvideo/media/videos/main/1080p60/partial_movie_files/Positioning/1672018281_605353140_73710116.mp4'
+file 'file:C:/Users/emili/Desktop/firstvideo/media/videos/main/1080p60/partial_movie_files/Positioning/1672018281_1330130319_73710116.mp4'
+file 'file:C:/Users/emili/Desktop/firstvideo/media/videos/main/1080p60/partial_movie_files/Positioning/1672018281_2689271737_2891545554.mp4'
+file 'file:C:/Users/emili/Desktop/firstvideo/media/videos/main/1080p60/partial_movie_files/Positioning/1672018281_1452986997_73710116.mp4'
+file 'file:C:/Users/emili/Desktop/firstvideo/media/videos/main/1080p60/partial_movie_files/Positioning/1672018281_2432271896_73710116.mp4'
+file 'file:C:/Users/emili/Desktop/firstvideo/media/videos/main/1080p60/partial_movie_files/Positioning/1672018281_1098564114_73710116.mp4'
+file 'file:C:/Users/emili/Desktop/firstvideo/media/videos/main/1080p60/partial_movie_files/Positioning/1672018281_3589788711_73710116.mp4'

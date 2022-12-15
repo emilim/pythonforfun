@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/emili/Desktop/firstvideo/media/videos/main/1080p60/partial_movie_files/DefaultTemplate/1413466013_270426708_223132457.mp4'
+file 'file:C:/Users/emili/Desktop/firstvideo/media/videos/main/1080p60/partial_movie_files/DefaultTemplate/1672018281_254623946_2380807968.mp4'
+file 'file:C:/Users/emili/Desktop/firstvideo/media/videos/main/1080p60/partial_movie_files/DefaultTemplate/1672018281_1076466279_3942280424.mp4'
