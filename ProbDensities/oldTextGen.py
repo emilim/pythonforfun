@@ -1,6 +1,7 @@
 import random
 import matplotlib.pyplot as plt
 import numpy as np
+import tensorflow as tf
 
 allChar = list("abcdefghijklmnopqrstuvwxyz '.,")
 
@@ -12,8 +13,11 @@ def validDataset(tempDataset):
                 datasetReturn.append(data)
     return datasetReturn
 
-with open ("data.txt", "r", encoding="utf8") as myfile:
+with open ("data1.txt", "r", encoding="utf8") as myfile:
     data = myfile.read()
+data.lower()
+path_to_file = tf.keras.utils.get_file('shakespeare.txt', 'https://storage.googleapis.com/download.tensorflow.org/data/shakespeare.txt')
+data = open(path_to_file, 'rb').read().decode(encoding='utf-8')
 data.lower()
 datasetChar = validDataset(list(data))
 matrix = np.array([[0 for x in range(len(allChar))] for y in range(len(allChar))])

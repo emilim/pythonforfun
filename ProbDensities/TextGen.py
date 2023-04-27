@@ -1,11 +1,17 @@
 import random
 import numpy as np
+import tensorflow as tf
 
 allChar = list("abcdefghijklmnopqrstuvwxyz '.,")
 
 with open ("data1.txt", "r", encoding="utf8") as myfile:
     data = myfile.read()
 data.lower()
+
+path_to_file = tf.keras.utils.get_file('shakespeare.txt', 'https://storage.googleapis.com/download.tensorflow.org/data/shakespeare.txt')
+data = open(path_to_file, 'rb').read().decode(encoding='utf-8')
+data.lower()
+
 datasetChar = list(''.join(c for c in data if c in allChar))
 
 m = len(allChar)
@@ -17,7 +23,7 @@ index = np.zeros((N), dtype=int)
 for i in range(len(datasetChar)-N):
     for j in range(N):
         index[j] = allChar.index(datasetChar[i + j])
-    freqMatrix[index[5]][index[4]][index[3]][index[2]][index[1]][index[0]] += 1#modify when change dimension
+    freqMatrix[index[5]][index[4]][index[3]][index[2]][index[1]][index[0]] += 1 #modify when change dimension
 
 
 sparsity = 1.0 - np.count_nonzero(freqMatrix) / freqMatrix.size
